@@ -12,7 +12,7 @@ From a **controlling perspective**, the dashboard supports structured planning, 
 The approach is **simple, transparent, and explainable**, which is essential for finance controllers and management discussions.
 
 
-![P&L Forecast Dashboard](screenshot/fc dashboard.jpg)
+![P&L Forecast Dashboard](screenshot/fc_dashboard.jpg)
 ---
 ## 🎯 Business Context (Controlling View)
 
