@@ -68,11 +68,11 @@ This logic enables controllers to clearly understand **which driver explains cha
 
 The solution follows a layered Snowflake architecture principles:
 
-- **Access Layer**
+- **Raw Layer**
   - Read-only views on ingested actuals and planning inputs
   - Ensures governance and controlled data access
 
-- **Analytics Layer**
+- **Core Layer**
   - SQL views implementing:
     - Growth calculations
     - Forecast logic
