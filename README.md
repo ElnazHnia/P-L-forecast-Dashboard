@@ -12,7 +12,7 @@ From a **controlling perspective**, the dashboard supports structured planning, 
 The approach is **simple, transparent, and explainable**, which is essential for finance controllers and management discussions.
 
 
-![P&L Forecast Dashboard](screenshot/fc_dashboard.jpg)
+![P&L Forecast Dashboard](SCREENSHOT/fc_dashboard.jpg)
 ---
 ## 🎯 Business Context (Controlling View)
 
@@ -137,5 +137,5 @@ This allows controllers to link **sales volume development with profitability ef
 
 ## 👤 Author
 
-Elnaz Hosseininia  
+Elnazossadat Hosseininia  
 Data Analyst | Controlling & FP&A | Snowflake | Power BI
