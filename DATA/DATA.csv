@@ -1,17 +1,9 @@
 ﻿Business_Line,Product,Year,Season,Quantity,Price,Cost
-X‑Ray Products,LUMINOS Lotus Max eco,2024,Q1,568,900,507
-X‑Ray Products,LUMINOS Lotus Max eco,2024,Q2,543,900,559
-X‑Ray Products,LUMINOS Lotus Max eco,2024,Q3,568,934,585
-X‑Ray Products,LUMINOS Lotus Max eco,2024,Q4,813,936,594
 X‑Ray Products,LUMINOS Lotus Max eco,2025,Q1,574,949,575
 X‑Ray Products,LUMINOS Lotus Max eco,2025,Q2,578,954,605
 X‑Ray Products,LUMINOS Lotus Max eco,2025,Q3,621,932,562
 X‑Ray Products,LUMINOS Lotus Max eco,2025,Q4,859,947,614
-Digital Health Solutions,syngo Virtual Cockpit,2024,Q1,341,1045,705
-Digital Health Solutions,syngo Virtual Cockpit,2024,Q2,326,1049,707
-Digital Health Solutions,syngo Virtual Cockpit,2024,Q3,333,1069,709
-Digital Health Solutions,syngo Virtual Cockpit,2024,Q4,489,1023,664
 Digital Health Solutions,syngo Virtual Cockpit,2025,Q1,337,1051,716
-Digital Health Solutions,syngo Virtual Cockpit,2025,Q2,323,1036,689
+Digital Health Solutions,syngo Virtual Cockpit,2025,Q2,323,1040,689
 Digital Health Solutions,syngo Virtual Cockpit,2025,Q3,354,1065,688
 Digital Health Solutions,syngo Virtual Cockpit,2025,Q4,501,1074,713
