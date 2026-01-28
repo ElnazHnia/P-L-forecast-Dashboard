@@ -12,7 +12,7 @@ From a **controlling perspective**, the dashboard supports structured planning, 
 The approach is **simple, transparent, and explainable**, which is essential for finance controllers and management discussions.
 
 
-![P&L Forecast Dashboard](screenshot/fc dashboard.jpg)
+![P&L Forecast Dashboard](SCREENSHOT/fc_dashboard.jpg)
 ---
 ## 🎯 Business Context (Controlling View)
 
@@ -68,11 +68,11 @@ This logic enables controllers to clearly understand **which driver explains cha
 
 The solution follows a layered Snowflake architecture principles:
 
-- **Access Layer**
+- **Raw Layer**
   - Read-only views on ingested actuals and planning inputs
   - Ensures governance and controlled data access
 
-- **Analytics Layer**
+- **Core Layer**
   - SQL views implementing:
     - Growth calculations
     - Forecast logic
@@ -137,5 +137,5 @@ This allows controllers to link **sales volume development with profitability ef
 
 ## 👤 Author
 
-Elnaz Hosseininia  
+Elnazossadat Hosseininia  
 Data Analyst | Controlling & FP&A | Snowflake | Power BI
